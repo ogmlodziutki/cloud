@@ -3,7 +3,7 @@
 //dwLocalPlayerController
 0x1D10200
 //dwLocalPlayerPawn
-0x1D10200
+0x1AF4B00
 //dwEntityList
 0x1CBE5B0
 //dwViewAngles
@@ -27,7 +27,7 @@
 //m_vecVelocity
 0x430
 //m_entitySpottedState + m_bSpotted
-0x1D58
+0x1188
 //m_bIsScoped
 0x28B0
 //m_pClippingWeapon
@@ -45,7 +45,7 @@
 //m_iszPlayerName
 0x6E8
 //m_pActionTrackingServices
-0x808
+0x1810
 //m_iNumRoundKills
 0x128
 //m_unTotalRoundDamageDealt
